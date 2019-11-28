@@ -1,0 +1,26 @@
+{
+  "name": "react-native-guitar-fretboard",
+  "version": "1.0.0",
+  "description": "A simple React Native component that implements a guitar fretboard UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react",
+    "react",
+    "native",
+    "mobile",
+    "android",
+    "ios",
+    "guitar",
+    "fretboard",
+    "frets",
+    "guitar",
+    "fretboard"
+  ],
+  "author": "Rishi Vedpathak",
+  "license": "MIT"
+}
